@@ -4,6 +4,22 @@ Run an open-source VS Code-like development environment directly on an Android p
 
 This setup is suitable for Android devices such as the OnePlus 10R and other reasonably powerful phones.
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"
+    width="100"
+    alt="Android"
+  >
+</p>
+
+<p align="center"> <img src="https://img.shields.io/badge/Android-Termux-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> <img src="https://img.shields.io/badge/Code--Server-Open%20Source-18181B?style=flat-square" alt="Code Server"> <img src="https://img.shields.io/badge/Ubuntu-PRoot-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/License-MIT-18181B?style=flat-square" alt="MIT License"> </p>
+
+<p align="center"> <b>Turn your Android phone into a portable development machine.</b> </p>
+
+Preview
+
+<p align="center"> <img src="https://raw.githubusercontent.com/coder/code-server/main/docs/images/code-server.png" alt="code-server" width="850"> </p>
+
 ## What you get
 
 * Termux-based Linux development environment
