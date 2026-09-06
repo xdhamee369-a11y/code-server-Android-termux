@@ -1,7 +1,13 @@
 # Code Server on Android Termux
 
-> Run an open-source VS Code-like development environment directly on Android using **Termux**.
-> 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"
+    width="100"
+    alt="Android"
+  >
+</p>
 
 1. **Method 1 — Native Termux**: Termux → Node.js → code-server
 2. **Method 2 — Ubuntu/PRoot**: Termux → Ubuntu → code-server
